@@ -1,0 +1,308 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e4693c65-71d3-40e1-a9e5-dfb15ae78c00")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 111.76 27.94)
+		(size 26.67 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1f474e48-af66-4574-ba06-3c124122572a")
+		(property "Sheetname" "USB-C2"
+			(at 111.76 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USBC2.kicad_sch"
+			(at 111.76 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stand-charging-hub"
+				(path "/e4693c65-71d3-40e1-a9e5-dfb15ae78c00"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 27.94)
+		(size 26.67 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37b7e433-310c-486b-a362-5c11c23870cb")
+		(property "Sheetname" "USB-C3"
+			(at 147.32 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USBC3.kicad_sch"
+			(at 147.32 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stand-charging-hub"
+				(path "/e4693c65-71d3-40e1-a9e5-dfb15ae78c00"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.71 27.94)
+		(size 22.86 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3f7c395e-7297-47ea-abea-ab64f91efe8b")
+		(property "Sheetname" "MCU"
+			(at 219.71 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 219.71 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stand-charging-hub"
+				(path "/e4693c65-71d3-40e1-a9e5-dfb15ae78c00"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 27.94)
+		(size 27.94 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "578007eb-b4af-4179-89d9-bf08b7548123")
+		(property "Sheetname" "Alimentação"
+			(at 29.21 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Alimentação.kicad_sch"
+			(at 29.21 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stand-charging-hub"
+				(path "/e4693c65-71d3-40e1-a9e5-dfb15ae78c00"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 182.88 27.94)
+		(size 26.67 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "65cb95bf-7090-4234-9de6-712dbba920a8")
+		(property "Sheetname" "Wireless"
+			(at 182.88 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wireless.kicad_sch"
+			(at 182.88 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stand-charging-hub"
+				(path "/e4693c65-71d3-40e1-a9e5-dfb15ae78c00"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 27.94)
+		(size 27.94 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f7becc2e-4c3a-48fc-a714-5db106038b6f")
+		(property "Sheetname" "USB-C1"
+			(at 73.66 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USBC1.kicad_sch"
+			(at 73.66 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stand-charging-hub"
+				(path "/e4693c65-71d3-40e1-a9e5-dfb15ae78c00"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 250.19 27.94)
+		(size 27.94 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fcd9f28d-6161-440f-b7b3-6d9188e55ed1")
+		(property "Sheetname" "Led"
+			(at 250.19 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED.kicad_sch"
+			(at 250.19 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stand-charging-hub"
+				(path "/e4693c65-71d3-40e1-a9e5-dfb15ae78c00"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
